@@ -1,4 +1,4 @@
-Pasoori="";
+pasoori="";
 jalebibaby="";
 
 function setup(){
@@ -10,7 +10,7 @@ function setup(){
 }
 
 function preload(){
-    Pasoori = loadSound("music2.mp3");
+    pasoori= loadSound("music2.mp3");
     jalebibaby= loadSound("music.mp3");
 }
 
